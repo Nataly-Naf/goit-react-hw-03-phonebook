@@ -28,7 +28,7 @@ height:20px;
   outline: solid grey 1px;
 
   &:hover {
- background-color:blue;
+ background-color:lightgreen;
   }
 
 `

@@ -28,9 +28,10 @@ height:30px;
   font-weight: 700; 
   border:none;
   outline: solid grey 1px;
+  
 
   &:hover {
- background-color:blue;
+ background-color:lightgreen;
   }
 
 `
